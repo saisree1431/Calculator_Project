@@ -27,6 +27,6 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ## 💻 How to Use
 1. Clone the repository:
-   ```bash
+   
   git clone https://github.com/saisree1431/Calculator_Project.git
 
