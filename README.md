@@ -20,7 +20,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 ---
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot1.png)
 
 
 ---
