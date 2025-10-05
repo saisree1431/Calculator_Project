@@ -19,7 +19,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - **JavaScript** – Functionality and logic
 
 ---
-![Calculator Screenshot](screenshot1.png)
+
 
 ---
 
